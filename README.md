@@ -8,9 +8,9 @@
   Multi-Platform Gamepad Firmware for RP2040
 </p>
 
-<p align="center">
+<H3 align="center">
  *** THIS FORK DOES NOT CHANGE ANY CORE CODING TO THE GP2040-CE FIRMWARE, IT ONLY EXISTS TO CREATE AN INTEGRATED PICO FIGHTING BOARD SPECIFIC FIRMWARE WITH THE GPIO ASSIGNMENTS SET TO SUPPORT THE INTEGRATED PICO FIGHTING BOARD HARDWARE DESIGN ***
-</p>
+</H3>
 
 <p align="center">
   <img src="https://img.shields.io/github/license/OpenStickCommunity/GP2040-CE" />
