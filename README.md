@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+ *** THIS FORK DOES NOT CHANGE ANY CORE CODING TO THE GP2040-CE FIRMWARE, IT ONLY EXISTS TO CREATE AN INTEGRATED PICO FIGHTING BOARD SPECIFIC FIRMWARE WITH THE GPIO ASSIGNMENTS SET TO SUPPORT THE INTEGRATED PICO FIGHTING BOARD HARDWARE DESIGN ***
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/license/OpenStickCommunity/GP2040-CE" />
   <img src="https://img.shields.io/github/actions/workflow/status/OpenStickCommunity/GP2040-CE/cmake.yml" />
   <br />
