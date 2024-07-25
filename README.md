@@ -69,6 +69,57 @@ Full results can be found in the [GP2040-CE v0.7.9 Firmware Latency Test Results
 
 Results from v0.7.8 can be found [HERE](https://github.com/OpenStickCommunity/Site/raw/main/latency_testing/GP2040-CE_Firmware_Latency_Test_Results_v0.7.8.xlsx).  Previous results can be found in the `latency_testing` folder.
 
+## Integrated Pico Fighting Board GPIO Settings
+
+Main Buttons and Directions:
+
+- GPIO 0: Left
+- GPIO 1: Up
+- GPIO 2: Down
+- GPIO 3: Right
+- GPIO 4: HOME (PS)
+- GPIO 5: SELECT (SHARE)
+- GPIO 6: START
+- GPIO 7: Punch 1
+- GPIO 8: Punch 2
+- GPIO 9: Punch 3
+- GPIO 10: Punch 4
+- GPIO 11: Kick 1
+- GPIO 12: Kick 2
+- GPIO 13: Kick 3
+- GPIO 14: Kick 4
+
+RGB Data Channel
+
+- GPIO 15: RGB Data
+
+Player LEDS (Version 2.0+ PCB can designate these as other functions as the resistor on the line has been removed)
+
+- GPIO 16: Player 1 LED
+- GPIO 17: Player 2 LED
+- GPIO 18: Player 3 LED
+- GPIO 19: Player 4 LED
+
+Modern Controller Buttons, Turbo Functions
+
+- GPIO 20: Touch Pad Click
+- GPIO 21: L3
+- GPIO 22: R3
+- GPIO 23: TURBO LED (Version 2.0+ PCB can designate this as another function as the resistor on the line has been removed)
+- GPIO 28: TURBO KEY
+
+I2C Lines both have been pulled high via resistor (3.3V)
+
+- GPIO 26: SDA
+- GPIO 27: SCL
+
+USB Passthrough GPIO
+
+- GPIO 24: DATA PLUS
+- GPIO 25: DATA MINUS
+
+
+
 ## Support
 
 If you would like to discuss features, issues or anything else related to GP2040-CE please [create an issue](https://github.com/OpenStickCommunity/GP2040-CE/issues/new) or join the [OpenStick GP2040-CE Discord](https://discord.gg/k2pxhke7q8) support channel.
