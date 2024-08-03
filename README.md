@@ -138,7 +138,11 @@ Pull requests are welcome and encouraged for enhancements, bug fixes and documen
 
 Please respect the coding style of the file(s) you are working in, and enforce the use of the `.editorconfig` file when present.
 
-## Acknowledgements
+## Acknolwedgements for the IPFB Fork
+- Rudkin for helping manage the GitHub
+- [wrennnnnn] for the initial management and compiling of the FW with the IPFB Config.h file.
+
+## Original Project Acknowledgements
 
 - [FeralAI](https://github.com/FeralAI) for building [GP2040](https://github.com/FeralAI/GP2040) and laying the foundation for this community project
 - Ha Thach's excellent [TinyUSB library](https://github.com/hathach/tinyusb) examples
