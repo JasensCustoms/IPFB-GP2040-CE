@@ -140,7 +140,7 @@ Please respect the coding style of the file(s) you are working in, and enforce t
 
 ## Acknolwedgements for the IPFB Fork
 - Rudkin for helping manage the GitHub
-- [wrennnnnn] for the initial management and compiling of the FW with the IPFB Config.h file.
+- [wrennnnnn](https://github.com/wrennnnnn). for the initial management and compiling of the FW with the IPFB Config.h file.
 
 ## Original Project Acknowledgements
 
